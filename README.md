@@ -1,2 +1,6 @@
-# AbrarRajin.github.io
-This is the main github repository of the github pages for S. M. Abrar Rajin's Profile
+# S. M. Abrar Rajin
+I am currently pursuing a B.Sc. in Computer Science and Engineering from North South University.
+
+---
+
+
